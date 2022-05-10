@@ -4,7 +4,6 @@ function restar (numero1, numero2) {
     return resultado;
     //comentario prueba
     //comentario en main
-=======
 }
 function restar2 (numero1, numero2) {
     var resultado2 = 0;
