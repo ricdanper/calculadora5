@@ -4,3 +4,8 @@ function restar (numero1, numero2) {
     return resultado;
     //comentario prueba
 }
+function restar2 (numero1, numero2) {
+    var resultado2 = 0;
+    resultado2 = numero2 - numero1;
+    return resultado2;
+}
